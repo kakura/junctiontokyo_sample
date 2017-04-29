@@ -1,6 +1,6 @@
     /*
     Flaticon icon font: Flaticon
-    Creation date: 29/04/2017 03:12
+    Creation date: 29/04/2017 07:09
     */
 
     @font-face {
@@ -36,12 +36,18 @@
   font-smoothing: antialiased;
     }
 
-    .flaticon-gun:before { content: "\f100"; }
-.flaticon-fish:before { content: "\f101"; }
-.flaticon-golf:before { content: "\f102"; }
-.flaticon-snowboard:before { content: "\f103"; }
+    .flaticon-sufer-with-his-board:before { content: "\f100"; }
+.flaticon-kayak:before { content: "\f101"; }
+.flaticon-bicycle:before { content: "\f102"; }
+.flaticon-gun:before { content: "\f103"; }
+.flaticon-fish:before { content: "\f104"; }
+.flaticon-golf:before { content: "\f105"; }
+.flaticon-snowboard:before { content: "\f106"; }
     
-    $font-Flaticon-gun: "\f100";
-    $font-Flaticon-fish: "\f101";
-    $font-Flaticon-golf: "\f102";
-    $font-Flaticon-snowboard: "\f103";
+    $font-Flaticon-sufer-with-his-board: "\f100";
+    $font-Flaticon-kayak: "\f101";
+    $font-Flaticon-bicycle: "\f102";
+    $font-Flaticon-gun: "\f103";
+    $font-Flaticon-fish: "\f104";
+    $font-Flaticon-golf: "\f105";
+    $font-Flaticon-snowboard: "\f106";

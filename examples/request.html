@@ -222,7 +222,7 @@
 			      position: place.geometry.location
 			    });
 
-			    placesList.innerHTML += '<li class="list-group-item" onclick="$(this).toggleClass(\'active\')"><a href="#">' + place.name + '</a></li>';
+			    placesList.innerHTML += '<li class="list-group-item" onclick="$(this).toggleClass(\'list-group-item-danger\')"><a href="#">' + place.name + '</a></li>';
 				markers.push(marker);
 			    bounds.extend(place.geometry.location);
 			  }
